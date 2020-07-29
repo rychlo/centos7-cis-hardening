@@ -1,0 +1,9 @@
+[submodule "auditor/finalduty"]
+	path = auditor/finalduty
+	url = https://github.com/finalduty/cis_benchmarks_audit.git
+[submodule "auditor/massyn"]
+	path = auditor/massyn
+	url = https://github.com/massyn/centos-cis-benchmark.git
+[submodule "hardener/naingyeminn"]
+	path = hardener/naingyeminn
+	url = https://github.com/naingyeminn/CentOS7_Lockdown.git
